@@ -6,14 +6,6 @@ Play against the computer, track your score, and test your luck.
 
 ---
 
-## 📸 Preview
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/aa880800-bd0c-4985-9b21-2eed6ae7f4ef" width="70%" />
-</p>
-
----
-
 ## 🛠 Tech Stack
 
 - HTML5  
