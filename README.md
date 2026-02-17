@@ -6,12 +6,6 @@ Play against the computer, track your score, and test your luck.
 
 ---
 
-## 🚀 Live Demo
-
-🔗 https://verytiredboy921.github.io/rock-paper-scissors-js/
-
----
-
 ## 📸 Preview
 
 <p align="center">
